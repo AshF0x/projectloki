@@ -1,1 +1,1 @@
-# projectloki
+# Project 'Loki'
